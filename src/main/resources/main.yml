@@ -1,0 +1,788 @@
+TUTORIAL_C_ARMOR_SKIN:
+  Level: 1
+  Rarity: 'Common'
+  Type: 'ARMOR'
+TUTORIAL_C_ARMOR_BODY:
+  Level: 1
+  Rarity: 'Common'
+  Type: 'ARMOR'
+TUTORIAL_C_ARMOR_LEGS:
+  Level: 1
+  Rarity: 'Common'
+  Type: 'ARMOR'
+TUTORIAL_C_ARMOR_FEET:
+  Level: 1
+  Rarity: 'Common'
+  Type: 'ARMOR'
+SEWER_C_ARMOR_SKIN:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'ARMOR'
+SEWER_C_ARMOR_BODY:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'ARMOR'
+SEWER_C_ARMOR_LEGS:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'ARMOR'
+SEWER_C_ARMOR_FEET:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'ARMOR'
+SEWER_U_ARMOR_SKIN:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+SEWER_U_ARMOR_BODY:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+SEWER_U_ARMOR_LEGS:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+SEWER_U_ARMOR_FEET:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+SEWER_R_ARMOR_SKIN:
+  Level: 5
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+SEWER_R_ARMOR_BODY:
+  Level: 5
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+SEWER_R_ARMOR_LEGS:
+  Level: 5
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+SEWER_R_ARMOR_FEET:
+  Level: 5
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+SEWER_E_ARMOR_SKIN:
+  Level: 6
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+SEWER_E_ARMOR_BODY:
+  Level: 6
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+SEWER_E_ARMOR_LEGS:
+  Level: 6
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+SEWER_E_ARMOR_FEET:
+  Level: 6
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+ATLANTAS_C_ARMOR_SKIN:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'ARMOR'
+ATLANTAS_C_ARMOR_BODY:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'ARMOR'
+ATLANTAS_C_ARMOR_LEGS:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'ARMOR'
+ATLANTAS_C_ARMOR_FEET:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'ARMOR'
+ATLANTAS_U_ARMOR_SKIN:
+  Level: 10
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+ATLANTAS_U_ARMOR_BODY:
+  Level: 10
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+ATLANTAS_U_ARMOR_LEGS:
+  Level: 10
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+ATLANTAS_U_ARMOR_FEET:
+  Level: 10
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+ATLANTAS_R_ARMOR_SKIN:
+  Level: 11
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+ATLANTAS_R_ARMOR_BODY:
+  Level: 11
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+ATLANTAS_R_ARMOR_LEGS:
+  Level: 11
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+ATLANTAS_R_ARMOR_FEET:
+  Level: 11
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+ATLANTAS_E_ARMOR_SKIN:
+  Level: 12
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+ATLANTAS_E_ARMOR_BODY:
+  Level: 12
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+ATLANTAS_E_ARMOR_LEGS:
+  Level: 12
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+ATLANTAS_E_ARMOR_FEET:
+  Level: 12
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+PIRATE_C_ARMOR_SKIN:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'ARMOR'
+PIRATE_C_ARMOR_BODY:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'ARMOR'
+PIRATE_C_ARMOR_LEGS:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'ARMOR'
+PIRATE_C_ARMOR_FEET:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'ARMOR'
+PIRATE_U_ARMOR_SKIN:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+PIRATE_U_ARMOR_BODY:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+PIRATE_U_ARMOR_LEGS:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+PIRATE_U_ARMOR_FEET:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+PIRATE_R_ARMOR_SKIN:
+  Level: 17
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+PIRATE_R_ARMOR_BODY:
+  Level: 17
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+PIRATE_R_ARMOR_LEGS:
+  Level: 17
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+PIRATE_R_ARMOR_FEET:
+  Level: 17
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+PIRATE_E_ARMOR_SKIN:
+  Level: 18
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+PIRATE_E_ARMOR_BODY:
+  Level: 18
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+PIRATE_E_ARMOR_LEGS:
+  Level: 18
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+PIRATE_E_ARMOR_FEET:
+  Level: 18
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+JUNGLE_C_ARMOR_SKIN:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'ARMOR'
+JUNGLE_C_ARMOR_BODY:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'ARMOR'
+JUNGLE_C_ARMOR_LEGS:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'ARMOR'
+JUNGLE_C_ARMOR_FEET:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'ARMOR'
+JUNGLE_U_ARMOR_SKIN:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+JUNGLE_U_ARMOR_BODY:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+JUNGLE_U_ARMOR_LEGS:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+JUNGLE_U_ARMOR_FEET:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+JUNGLE_R_ARMOR_SKIN:
+  Level: 23
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+JUNGLE_R_ARMOR_BODY:
+  Level: 23
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+JUNGLE_R_ARMOR_LEGS:
+  Level: 23
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+JUNGLE_R_ARMOR_FEET:
+  Level: 23
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+JUNGLE_E_ARMOR_SKIN:
+  Level: 24
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+JUNGLE_E_ARMOR_BODY:
+  Level: 24
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+JUNGLE_E_ARMOR_LEGS:
+  Level: 24
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+JUNGLE_E_ARMOR_FEET:
+  Level: 24
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+MOUTAINS_C_ARMOR_SKIN:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'ARMOR'
+MOUTAINS_C_ARMOR_BODY:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'ARMOR'
+MOUTAINS_C_ARMOR_LEGS:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'ARMOR'
+MOUTAINS_C_ARMOR_FEET:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'ARMOR'
+MOUTAINS_U_ARMOR_SKIN:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+MOUTAINS_U_ARMOR_BODY:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+MOUTAINS_U_ARMOR_LEGS:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+MOUTAINS_U_ARMOR_FEET:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'ARMOR'
+MOUTAINS_R_ARMOR_SKIN:
+  Level: 29
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+MOUTAINS_R_ARMOR_BODY:
+  Level: 29
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+MOUTAINS_R_ARMOR_LEGS:
+  Level: 29
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+MOUTAINS_R_ARMOR_FEET:
+  Level: 29
+  Rarity: 'Rare'
+  Type: 'ARMOR'
+MOUTAINS_E_ARMOR_SKIN:
+  Level: 30
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+MOUTAINS_E_ARMOR_BODY:
+  Level: 30
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+MOUTAINS_E_ARMOR_LEGS:
+  Level: 30
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+MOUTAINS_E_ARMOR_FEET:
+  Level: 30
+  Rarity: 'Epic'
+  Type: 'ARMOR'
+SEWER_C_STAFF_1:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'HAMMER'
+SEWER_C_STAFF_2:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'HAMMER'
+SEWER_C_STAFF_3:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'HAMMER'
+SEWER_U_STAFF_1:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+SEWER_U_STAFF_2:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+SEWER_U_STAFF_3:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+SEWER_R_STAFF_1:
+  Level: 6
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+SEWER_R_STAFF_2:
+  Level: 6
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+SEWER_E_STAFF_1:
+  Level: 6
+  Rarity: 'Epic'
+  Type: 'HAMMER'
+ATLANTAS_C_STAFF_1:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'HAMMER'
+ATLANTAS_C_STAFF_2:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'HAMMER'
+ATLANTAS_C_STAFF_3:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'HAMMER'
+ATLANTAS_U_STAFF_1:
+  Level: 11
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+ATLANTAS_U_STAFF_2:
+  Level: 11
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+ATLANTAS_U_STAFF_3:
+  Level: 11
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+ATLANTAS_R_STAFF_1:
+  Level: 12
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+ATLANTAS_R_STAFF_2:
+  Level: 12
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+ATLANTAS_E_STAFF_1:
+  Level: 12
+  Rarity: 'Epic'
+  Type: 'HAMMER'
+PIRATE_C_STAFF_1:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'HAMMER'
+PIRATE_C_STAFF_2:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'HAMMER'
+PIRATE_C_STAFF_3:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'HAMMER'
+PIRATE_U_STAFF_1:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+PIRATE_U_STAFF_2:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+PIRATE_U_STAFF_3:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+PIRATE_R_STAFF_1:
+  Level: 18
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+PIRATE_R_STAFF_2:
+  Level: 18
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+PIRATE_E_STAFF_1:
+  Level: 18
+  Rarity: 'Epic'
+  Type: 'HAMMER'
+JUNGLE_C_STAFF_1:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'HAMMER'
+JUNGLE_C_STAFF_2:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'HAMMER'
+JUNGLE_C_STAFF_3:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'HAMMER'
+JUNGLE_U_STAFF_1:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+JUNGLE_U_STAFF_2:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+JUNGLE_U_STAFF_3:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+JUNGLE_R_STAFF_1:
+  Level: 24
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+JUNGLE_R_STAFF_2:
+  Level: 24
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+JUNGLE_E_STAFF_1:
+  Level: 24
+  Rarity: 'Epic'
+  Type: 'HAMMER'
+MOUNTAINS_C_STAFF_1:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'HAMMER'
+MOUNTAINS_C_STAFF_2:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'HAMMER'
+MOUNTAINS_C_STAFF_3:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'HAMMER'
+MOUNTAINS_U_STAFF_1:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+MOUNTAINS_U_STAFF_2:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+MOUNTAINS_U_STAFF_3:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'HAMMER'
+MOUNTAINS_R_STAFF_1:
+  Level: 30
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+MOUNTAINS_R_STAFF_2:
+  Level: 30
+  Rarity: 'Rare'
+  Type: 'HAMMER'
+MOUNTAINS_E_STAFF_1:
+  Level: 30
+  Rarity: 'Epic'
+  Type: 'HAMMER'
+SEWER_C_SWORD_1:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'SWORD'
+SEWER_C_SWORD_2:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'SWORD'
+SEWER_C_SWORD_3:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'SWORD'
+SEWER_U_SWORD_1:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+SEWER_U_SWORD_2:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+SEWER_U_SWORD_3:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+SEWER_R_SWORD_1:
+  Level: 6
+  Rarity: 'Rare'
+  Type: 'SWORD'
+SEWER_R_SWORD_2:
+  Level: 6
+  Rarity: 'Rare'
+  Type: 'SWORD'
+SEWER_E_SWORD_1:
+  Level: 6
+  Rarity: 'Epic'
+  Type: 'SWORD'
+ATLANTAS_C_SWORD_1:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'SWORD'
+ATLANTAS_C_SWORD_2:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'SWORD'
+ATLANTAS_C_SWORD_3:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'SWORD'
+ATLANTAS_U_SWORD_1:
+  Level: 11
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+ATLANTAS_U_SWORD_2:
+  Level: 11
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+ATLANTAS_U_SWORD_3:
+  Level: 11
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+ATLANTAS_R_SWORD_1:
+  Level: 12
+  Rarity: 'Rare'
+  Type: 'SWORD'
+ATLANTAS_R_SWORD_2:
+  Level: 12
+  Rarity: 'Rare'
+  Type: 'SWORD'
+ATLANTAS_E_SWORD_1:
+  Level: 12
+  Rarity: 'Epic'
+  Type: 'SWORD'
+PIRATE_C_SWORD_1:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'SWORD'
+PIRATE_C_SWORD_2:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'SWORD'
+PIRATE_C_SWORD_3:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'SWORD'
+PIRATE_U_SWORD_1:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+PIRATE_U_SWORD_2:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+PIRATE_U_SWORD_3:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+PIRATE_R_SWORD_1:
+  Level: 18
+  Rarity: 'Rare'
+  Type: 'SWORD'
+PIRATE_R_SWORD_2:
+  Level: 18
+  Rarity: 'Rare'
+  Type: 'SWORD'
+PIRATE_E_SWORD_1:
+  Level: 18
+  Rarity: 'Epic'
+  Type: 'SWORD'
+JUNGLE_C_SWORD_1:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'SWORD'
+JUNGLE_C_SWORD_2:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'SWORD'
+JUNGLE_C_SWORD_3:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'SWORD'
+JUNGLE_U_SWORD_1:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+JUNGLE_U_SWORD_2:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+JUNGLE_U_SWORD_3:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+JUNGLE_R_SWORD_1:
+  Level: 24
+  Rarity: 'Rare'
+  Type: 'SWORD'
+JUNGLE_R_SWORD_2:
+  Level: 24
+  Rarity: 'Rare'
+  Type: 'SWORD'
+JUNGLE_E_SWORD_1:
+  Level: 24
+  Rarity: 'Epic'
+  Type: 'SWORD'
+MOUNTAINS_C_SWORD_1:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'SWORD'
+MOUNTAINS_C_SWORD_2:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'SWORD'
+MOUNTAINS_C_SWORD_3:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'SWORD'
+MOUNTAINS_U_SWORD_1:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+MOUNTAINS_U_SWORD_2:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+MOUNTAINS_U_SWORD_3:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'SWORD'
+MOUNTAINS_R_SWORD_1:
+  Level: 30
+  Rarity: 'Rare'
+  Type: 'SWORD'
+MOUNTAINS_R_SWORD_2:
+  Level: 30
+  Rarity: 'Rare'
+  Type: 'SWORD'
+MOUNTAINS_E_SWORD_1:
+  Level: 30
+  Rarity: 'Epic'
+  Type: 'SWORD'
+SEWER_C_SHIELD_1:
+  Level: 2
+  Rarity: 'Common'
+  Type: 'SHIELD'
+SEWER_U_SHIELD_3:
+  Level: 4
+  Rarity: 'Uncommon'
+  Type: 'SHIELD'
+SEWER_R_SHIELD_2:
+  Level: 6
+  Rarity: 'Rare'
+  Type: 'SHIELD'
+SEWER_E_SHIELD_1:
+  Level: 6
+  Rarity: 'Epic'
+  Type: 'SHIELD'
+ATLANTAS_C_SHIELD_1:
+  Level: 8
+  Rarity: 'Common'
+  Type: 'SHIELD'
+ATLANTAS_U_SHIELD_3:
+  Level: 11
+  Rarity: 'Uncommon'
+  Type: 'SHIELD'
+ATLANTAS_R_SHIELD_2:
+  Level: 12
+  Rarity: 'Rare'
+  Type: 'SHIELD'
+ATLANTAS_E_SHIELD_1:
+  Level: 12
+  Rarity: 'Epic'
+  Type: 'SHIELD'
+PIRATE_C_SHIELD_1:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'SHIELD'
+PIRATE_C_SHIELD_2:
+  Level: 14
+  Rarity: 'Common'
+  Type: 'SHIELD'
+PIRATE_U_SHIELD_1:
+  Level: 16
+  Rarity: 'Uncommon'
+  Type: 'SHIELD'
+PIRATE_R_SHIELD_2:
+  Level: 18
+  Rarity: 'Rare'
+  Type: 'SHIELD'
+PIRATE_E_SHIELD_1:
+  Level: 18
+  Rarity: 'Epic'
+  Type: 'SHIELD'
+JUNGLE_C_SHIELD_1:
+  Level: 20
+  Rarity: 'Common'
+  Type: 'SHIELD'
+JUNGLE_U_SHIELD_3:
+  Level: 22
+  Rarity: 'Uncommon'
+  Type: 'SHIELD'
+JUNGLE_R_SHIELD_1:
+  Level: 24
+  Rarity: 'Rare'
+  Type: 'SHIELD'
+JUNGLE_R_SHIELD_2:
+  Level: 24
+  Rarity: 'Rare'
+  Type: 'SHIELD'
+MOUNTAINS_C_SHIELD_1:
+  Level: 26
+  Rarity: 'Common'
+  Type: 'SHIELD'
+MOUNTAINS_U_SHIELD_1:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'SHIELD'
+MOUNTAINS_U_SHIELD_2:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'SHIELD'
+MOUNTAINS_U_SHIELD_3:
+  Level: 28
+  Rarity: 'Uncommon'
+  Type: 'SHIELD'
+MOUNTAINS_R_SHIELD_1:
+  Level: 30
+  Rarity: 'Rare'
+  Type: 'SHIELD'
+MOUNTAINS_E_SHIELD_2:
+  Level: 30
+  Rarity: 'Epic'
+  Type: 'SHIELD'
